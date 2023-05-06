@@ -1,0 +1,35 @@
+name age occupation  
+anjali 29 it
+xyz  15   student 
+tr
+  td name
+  td 
+  td 
+
+name 
+
+anjali 
+
+row = driver.findelement(by.xpath(//tr/td[text()='"+name+"']/following-sibiling::td))
+
+
+header= driver.findelements(by.xpath("th")).gettext()
+
+header==occupation 
+
+master ob= data
+//td[text()]
+try{
+
+   
+
+}catch(Exceptiond e){
+ 
+
+
+}
+
+
+
+
+

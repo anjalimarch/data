@@ -1,0 +1,18 @@
+our responsibilities
+Oversee software quality within your agile team including testing (with focus on automation) and provide quality inputs to the product roadmap
+Define test plans to detect, investigate, and solve product issues, optimize team quality processes, and verify compliance with ABB product standards
+Implement and execute tests on multiple software applications in both desktop and web-based environments, collaborating with other team members on test automation
+Assess and communicate quality risks to R&D leadership. Ensure that tests are implemented correctly and are accurately reported
+Ensure that product defects are reviewed regularly and prioritized based on risk and impact
+Work in an international team and communicate in English on daily basis
+Your background
+Professional experience in software quality focused on web applications
+Web testing background with knowledge of frontend testing, API testing, security testing, and performance testing using relevant test tools for JavaScript/TypeScript, HTML 5, CSS, C# technologies
+Proven experience as a quality leader within agile software teams
+Highly skilled with application of software quality and agile development practices. Experience with Scaled Agile Framework is a plus
+Experience in software test planning, test execution, defect management via software work tracking tools (Azure DevOps or TFS is preferred)
+Strong communication skills in spoken and written English
+Testing expertise within these technical areas would bring value to the team: .NET, Docker, SQL, RESTful web API testing, JavaScript web applications. Test automation or basic software development skills are a plus
+
+provide quality inputs to the product roadmap
+solve product issues, optimize team quality processes, and verify compliance with ABB product standards

@@ -1,0 +1,53 @@
+•	Software Testing: Functional Testing, Automation Testing, Testing Framework: TestNG, Jasmine, 
+Mocha, 
+Cucumber, 
+Design Patterns: 
+Page Object Model, 
+Behavior Driven Development
+•	
+Functional Testing Tool: 
+Selenium WebDriver/
+Grid, Protractor, 
+Webdriver IO, 
+Cypress, 
+API Testing Tool: 
+Rest Assured
+•	Technologies/Domain: 
+US Tax Process,
+ 
+Fleet Management System, 
+Programming Languages: 
+Java, 
+JavaScript, 
+Apache POI 
+Web Technologies: 
+Angular JS, 
+Node.JS, 
+Scripting: 
+Java, 
+JavaScript, 
+IDE: Eclipse, 
+VS Code, 
+Testing Framework: 
+TestNG, 
+Jasmine, 
+Mocha
+•	Web Debugging Tool: 
+XPath, Firepath, 
+Firebug, Build Tool: 
+Maven
+•	Processes: 
+Agile-Scrum, 
+Waterfall, 
+Bug Tracking Tools: 
+JIRA, 
+VSTS, 
+QTest, 
+Continuous Integration Tools: 
+Jenkins, 
+Azure Devops, 
+Version Control: 
+GIT, DataBase: 
+SQL Server, 
+Operating 
+Windows

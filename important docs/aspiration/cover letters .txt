@@ -1,0 +1,23 @@
+Web Technologies	Angular JS, Node.JS
+Scripting	Java, JavaScript
+IDE	Eclipse, VS Code
+Testing Framework           	TestNG, Jasmine, Mocha
+Web Debugging Tool	XPath, Firepath, Firebug
+Build Tool	Maven
+Processes	Agile-Scrum, Waterfall
+Bug Tracking Tools	JIRA, VSTS, QTest
+Continuous Integration Tools	Jenkins, Azure Devops
+Version Control	GIT 
+Data Bases	SQL Server
+Operating Systems	Windows
+
+canada 
+UK 
+Denmark 
+Germany
+
+and coverletters how to create 
+
+
+tomorrow i have to do dis part completed 
+

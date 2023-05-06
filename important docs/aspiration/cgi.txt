@@ -1,0 +1,274 @@
+pages
+pageclass
+
+smoke suite 
+login 
+create wf
+create tracker 
+regression suite
+
+300 testcases 
+
+src/test/resources 
+
+feature files 
+
+Given user want to lognn <username> and <password>
+
+
+runner 
+
+testrunner 
+
+@cucumberOption()
+
+@junit
+
+glue(stepdefinition, allure report)
+
+azure container 
+report 
+
+int 
+qa 
+pre prod - us -eu 
+prod - us -eu 
+
+
+
+
+
+browser.get("https://google.com");
+
+browser.manage().window().maximize();
+
+browser.sleep(2000);
+
+ element(by.xpath("xpath")).sendKeys("anjali mishra");
+ element(by.xpath("password")).sendKeys("password");
+ element(by.xpath("submit")).click();
+
+browser.sleep(3000);
+
+
+//verify title
+
+expect(browser.getTitle()).toBe("Title page");
+browser.getTitle().then(function(result){
+console.log(result);
+
+})
+
+
+-- 
+
+node 
+
+hubs - chrome- 2 
+hubs - mozilla- 1
+hubs - edge -3
+
+views 
+
+
+.isDisplayed()
+
+.isPresent();
+
+
+
+//usecase
+
+create = name 
+
+
+let create= element(by.xpath("xpath"));
+
+EC= protractor.ExpectedCondition;
+browser.wait()
+
+var flag= EC.isVisiblity
+
+//polling 
+
+
+while(!flag){
+
+browser.wait(2000);
+flag= EC.isVisibility();
+
+
+
+}
+
+
+-3 text boxes of type = text
+
+element.all(by.xpath('[@type='text']')).get(1).clear();
+
+
+vm machines - 
+
+//java
+
+private 
+
+public static void main(String args[]){
+
+
+
+
+}
+
+.class - byte code- platform independent
+
+
+
+abstract class A{
+
+
+abstract public void add()
+
+public void minus(){
+
+
+}
+
+}
+
+
+interface B{
+
+public static final x= 5;
+
+public void add();
+
+}
+
+
+list 
+
+
+
+
+set 
+HashSet 
+
+
+Map
+
+HashMap key value pair 
+
+Exception handling 
+
+checked 
+sql 
+array outofbound 
+number exception
+
+
+and unchecked 
+
+
+try - catch 
+
+No such 
+stale element 
+
+
+
+
+class A{
+
+public static void main(Strings args[])
+
+{
+
+int x=10,y=2;
+
+x=x-y;//8
+y=x+y;//10
+x= y-x;//2
+
+System.out.println("swapped values:"+x+"and"+y);
+
+
+
+//reverse a number 
+
+
+class A{
+
+public static void main(String args[]){
+
+int n= 7896;
+int r, a;
+a=1;
+
+while(n>0){
+
+r= n%10;//6
+a= a*r//6
+n=n/10;
+
+denomitor =0 
+
+//exception 
+
+employee table 
+
+name id 
+
+anjali anjalimarch 
+
+update email from employee where email= 'anjalimarch'
+
+${foldername}
+
+.exe 
+
+
+
+
+
+
+
+}
+
+
+
+
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+Service Connection and how to setup?
+How to authenticate Web application?
+How to deploy Web App and IIS web site?
+Difference between  Continuous delivery and continuous integration.
+Git Branching strategy, GIT Policies, How to create branches and merge code using CMD.
+Different patterns in Azure Devops
+How to access Azure key vault from pipeline.

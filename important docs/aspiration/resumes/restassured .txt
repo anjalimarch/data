@@ -1,0 +1,19 @@
+
+rest assusred
+junit 
+ham crest 
+testng 
+json path 
+json simple 
+gson 
+json 
+scribejava- apis
+json schema validator 
+xml path
+
+
+Select * from employee where sal = (slect Min(sal) from employee where sal IN(select DISTINCT Top N sal from employee order by desc ))
+
+fluent waits listeners in testng 
+test methods 
+screen shots 

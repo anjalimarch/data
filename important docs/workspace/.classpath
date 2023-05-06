@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaPrograms/CucumberPOMSeries/src/main/java"/>
+	<classpathentry kind="src" path="JavaPrograms/CucumberPOMSeries/src/test/java"/>
+	<classpathentry kind="src" path="JavaPrograms/javaProject/src"/>
+	<classpathentry kind="src" path="JavaPrograms/mavenProject/src/main/java"/>
+	<classpathentry kind="src" path="JavaPrograms/mavenProject/src/test/java"/>
+	<classpathentry kind="src" path="workspace-2023/CucumberPOMSeries/src/main/java"/>
+	<classpathentry kind="src" path="workspace-2023/CucumberPOMSeries/src/test/java"/>
+	<classpathentry kind="src" path="workspace-2023/javaProject/src"/>
+	<classpathentry kind="src" path="workspace-2023/mavenProject/src/main/java"/>
+	<classpathentry kind="src" path="workspace-2023/mavenProject/src/test/java"/>
+	<classpathentry kind="lib" path="JavaPrograms/mavenProject/target/mavenProject-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="workspace-2023/mavenProject/target/mavenProject-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="JavaPrograms/CucumberPOMSeries/target/classes"/>
+</classpath>

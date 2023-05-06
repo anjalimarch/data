@@ -1,0 +1,254 @@
+const expectChai= require('Chai').expect
+
+
+const person={
+var name: "Mishra";
+var getEmp: function(){
+
+console.log(this.name);
+
+};
+
+var age: 32
+var getEmp: function(){
+
+console.log(this.age);
+
+}
+
+}
+
+
+element(by.xpath("xpath")).getText().then("",function(result){
+
+console.log(result);
+
+})
+
+
+
+==
+===
+
+var val = 10 
+
+val==10 
+val===data
+undifined 
+
+typeOf(10)
+
+BigInt 
+
+
+
+var data= "anjali"
+typeOf(data)
+
+{
+BigInt
+
+}
+
+alert 
+
+xpath 
+absolute  /head/
+relative //div[@id='mismishra']
+
+
+//preciding-sibiling::div[@name='anjali']
+
+id
+name
+class
+text
+href
+
+
+element.all(by.xpath("xpath"));
+
+var name//anjali, mishra
+element(by.xpath("@id='"+name+"'"))
+
+grid 
+remotewebdirver()-- hub 
+
+hub - 
+
+@parameters(browser, platform, instances )
+DesiredCapabalities
+
+driver. getWindowHadles();
+
+set s = driver. getWindowHandles()
+
+
+(s.Iterator.hasNext()){
+
+
+
+
+
+}
+
+
+
+elementNotFound
+NoSuchElement
+
+staleElement 
+
+
+class A
+
+
+A oa= new A();
+
+
+oa-- stack reference 
+
+functions
+variables 
+
+Implicitwait(TimUnit.seconds, 3000)
+
+WebDriverWait w= new WebDriverWait();
+
+waitUntill.ExpectedCondition();
+
+
+
+
+thread.sleep(3000)
+
+
+browser.waitUntill(ExpectedConditions.visibilityOfelement($("xpath")))
+
+
+Mysight ce 
+
+
+pages 
+
+BasePage.js- elements 
+module. export= new BasePage();
+functions
+
+inherited 
+
+TrackerPage
+
+var basePage= requre("./BasePage")
+
+
+//git
+
+master repo 
+
+feature branch 
+
+
+git branch feature bdm 
+
+test 
+page 
+git status 
+
+git add .
+git commit - m "commiting changes "
+
+git status 
+
+git push 
+
+
+repos 
+branches 
+
+
+run 
+
+tasks 
+change variables 
+
+
+
+
+abstract class Car {
+    static {
+        System.out.print("1");
+    }
+
+    public Car(String name) {
+        super();
+        System.out.print("2");
+    }
+
+    {
+        System.out.print("3");
+    }
+}
+
+public class BlueCar extends Car {
+    {
+        System.out.print("4");
+    }
+
+    public BlueCar() {
+        super("blue");
+        System.out.print("5");
+    }
+
+    public static void main(String[] gears) {
+        new BlueCar();
+
+//1, 2
+    }
+}
+
+//oj-conveyor-belt[@aria-label='Suggested Filters']/div[4]/div/0j-sp-filter-chip[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

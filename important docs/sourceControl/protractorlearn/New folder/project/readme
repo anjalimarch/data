@@ -1,0 +1,5 @@
+//npm install --save protractor
+//npm install --save @types/jasmine
+//const{browser}=require("protractor")
+//const{browser}=require("protractor");
+//npm install protractor-beautiful-reporter --save-dev

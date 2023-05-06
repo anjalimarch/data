@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T01:44:44 IST" name="Default suite" finished-at="2023-01-26T01:44:46 IST" duration-ms="2730">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T01:44:44 IST" name="Default test" finished-at="2023-01-26T01:44:46 IST" duration-ms="2730">
+      <class name="com.api.restAssuredApi.firstCommand">
+        <test-method signature="f()[pri:0, instance:com.api.restAssuredApi.firstCommand@29e495ff]" started-at="2023-01-26T01:44:44 IST" name="f" finished-at="2023-01-26T01:44:46 IST" duration-ms="2616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.api.restAssuredApi.firstCommand -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
